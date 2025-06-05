@@ -56,7 +56,7 @@
   h1, h2, h3 {
     margin: 8px 0 2px;
     padding: 0;
-    color: #0366d6;
+    color: #ebeced;
     font-weight: normal;
   }
   h1 svg, h2 svg, h3 svg {
@@ -783,7 +783,7 @@
 
   .activity .repo, .activity .issue, .activity .commit .sha {
     display: inline;
-    color: #58a6ff;
+    color: #ebeced;
   }
 
   .activity .code {
